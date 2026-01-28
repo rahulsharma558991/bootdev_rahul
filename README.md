@@ -5,7 +5,7 @@ A collection of projects built on the [boot.dev](https://boot.dev) platform.
 ## Projects
 
 - **BookbotInPython** - A Python-based book analysis bot
-  - [Repository](https://github.com/rahulsharma558991/bootdev_rahul.git)
+  - [Repository](https://github.com/rahulsharma558991/bootdev_rahul/tree/BookbotInPython)
 
 ## About
 
