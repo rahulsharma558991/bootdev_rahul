@@ -6,6 +6,8 @@ A collection of projects built on the [boot.dev](https://boot.dev) platform.
 
 - **BookbotInPython** - A Python-based book analysis bot
   - [Repository](https://github.com/rahulsharma558991/bootdev_rahul/tree/BookbotInPython)
+- **toy-claude-code** - A toy implementation of Claude Code (Cursor/Zed's Agentic Mode) using Google's Gemini API. This project demonstrates how to build an AI agent that can read files, write files, list directories, and execute Python code.
+  - [Repository](https://github.com/rahulsharma558991/BootdevProjects/tree/toy-claude-code)
 
 ## About
 
